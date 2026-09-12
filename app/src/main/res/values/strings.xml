@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Black Premium Analyzer</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_results">النتائج</string>
+    <string name="nav_keywords">الكلمات</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <string name="title_app_part1">BLACK PREMIUM</string>
+    <string name="title_app_part2">ANALYZER</string>
+    <string name="app_subtitle">Fast • Accurate • Smart Analysis</string>
+
+    <string name="pick_apk_apks">اختيار APK / APKS</string>
+    <string name="pick_apk_apks_sub">اختر ملف لتحليله</string>
+    <string name="manage_keywords">إدارة الكلمات المفتاحية</string>
+    <string name="manage_keywords_sub">إضافة / استيراد / تعديل</string>
+    <string name="start_scan">بدء الفحص</string>
+    <string name="start_scan_sub">ابدأ تحليل الملف بالكلمات المفتاحية</string>
+
+    <string name="file_info">معلومات الملف</string>
+    <string name="no_file_selected">لم يتم اختيار ملف</string>
+    <string name="app_name_label">اسم التطبيق</string>
+    <string name="package_name_label">Package Name</string>
+    <string name="version_label">Version</string>
+    <string name="file_size_label">حجم الملف</string>
+    <string name="dex_count_label">عدد DEX</string>
+    <string name="status_label">الحالة</string>
+</resources>

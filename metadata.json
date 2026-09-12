@@ -1,0 +1,6 @@
+{
+  "name": "Black Premium Analyzer",
+  "description": "Fast, accurate and smart static DEX/APK analysis engine for premium logic discovery and auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
